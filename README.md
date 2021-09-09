@@ -16,6 +16,22 @@ GitHub will display your profile README on your profile page if all of the follo
 
 <img width="150" alt="Img1" src="https://user-images.githubusercontent.com/58441640/132631958-e43da92a-b554-453a-a7b8-10ba0bbe7254.PNG">
 
+2. A brief description of what this project does and who it's for
+
+Under "Repository name", type a repository name that matches your GitHub username. For example, if your username is "octocat", the repository name must be "octocat".
+
+
+3. Optionally, add a description of your repository. For example, "My personal repository."
+
+4. Select Public.
+
+5. Select Initialize this repository with a README.
+
+6. Click Create repository.
+
+
+7. Above the right sidebar, click Edit README.
+
 
 
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
