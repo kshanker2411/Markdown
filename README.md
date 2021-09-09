@@ -14,7 +14,8 @@ GitHub will display your profile README on your profile page if all of the follo
 
 1 . In the upper-right corner of any page, use the  drop-down menu, and select **New repository.**
 
-![Button to share README to profile](https://docs.github.com/assets/images/help/repository/share-to-profile.png)
+<img width="150" alt="Img1" src="https://user-images.githubusercontent.com/58441640/132631958-e43da92a-b554-453a-a7b8-10ba0bbe7254.PNG">
+
 
 
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
